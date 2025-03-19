@@ -24,6 +24,7 @@ Purpose is...
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
+* [Merlin Project](https://www.projectwizards.net/en/merlin-project) - Project Management on macOS & iOS: Gantt, Kanban, Mindmap, AI Project Generation and more. 
 * [OpenProject](https://www.openproject.org) - Project collaboration with open source.
 * [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
